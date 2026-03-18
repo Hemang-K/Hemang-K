@@ -4,15 +4,15 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshuvaliya&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshuvaliya" /> </p> -->
   
 <!--- 👨‍💻 Portfolio : [portfoli.me](https://vrajesh-ghelani-portfolio.vercel.app/) -->
-- 📄 Resume : [Resume](https://drive.google.com/file/d/1_-4PwLTHj2C5eQo9LOZalszx6DCbJ_LJ/view?usp=sharing)
-- 📫 How to reach me vrajeshghelani6125@gmail.com  
+- 📄 Resume : [Resume](https://drive.google.com/file/d/1oabyn4x85kEMLvAj_oOXd6O9jhz8JyjU/view?usp=drive_link)
+- 📫 How to reach me kalavadia.hemang@gmail.com
 - ⚡ LeetCode : [LeetCode](https://leetcode.com/u/Hemang_Kalavadia/)
 - ⚡ HakerRank : [HakerRank](https://www.hackerrank.com/profile/23dce054)
 - 🤝 I’m looking to collaborate on Open Source Projects 
 
 <h2 align="left">Connect with me </h2>
 
-- Linkedin : [Vrajesh Ghelani](https://www.linkedin.com/in/hemang-kalavadia-717532291/)
+- Linkedin : [Hemang Kalavadia](https://www.linkedin.com/in/hemang-kalavadia-717532291/)
 - Mail : kalavadia.hemang@gmail.com
 <h2 align="left">Languages and Tools:</h2>
 
