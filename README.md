@@ -4,7 +4,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshuvaliya&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshuvaliya" /> </p> -->
   
 <!--- 👨‍💻 Portfolio : [portfoli.me](https://vrajesh-ghelani-portfolio.vercel.app/) -->
-- 📄 Resume : [Resume](https://drive.google.com/file/d/1oabyn4x85kEMLvAj_oOXd6O9jhz8JyjU/view?usp=drive_link)
+- 📄 Resume : [Resume](https://drive.google.com/file/d/13soZsYsZjfcfrMNLuDW3QiJrXvfLQuTo/view?usp=sharing)
 - 📫 How to reach me kalavadia.hemang@gmail.com
 - ⚡ LeetCode : [LeetCode](https://leetcode.com/u/Hemang_Kalavadia/)
 - ⚡ HakerRank : [HakerRank](https://www.hackerrank.com/profile/23dce054)
