@@ -3,7 +3,7 @@
  
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshuvaliya&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshuvaliya" /> </p> -->
   
-- 👨‍💻 Portfolio : [portfoli.me](https://portfolio-hemang-ks-projects.vercel.app/#) 
+- 👨‍💻 Portfolio : [Portfolio.me](https://portfolio-hemang-ks-projects.vercel.app/#) 
 - 📄 Resume : [Resume](https://drive.google.com/file/d/13soZsYsZjfcfrMNLuDW3QiJrXvfLQuTo/view?usp=sharing)
 - 📫 How to reach me kalavadia.hemang@gmail.com
 - ⚡ LeetCode : [LeetCode](https://leetcode.com/u/Hemang_Kalavadia/)
