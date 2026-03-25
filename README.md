@@ -7,7 +7,7 @@
 - 📄 Resume : [Resume](https://drive.google.com/file/d/13soZsYsZjfcfrMNLuDW3QiJrXvfLQuTo/view?usp=sharing)
 - 📫 How to reach me kalavadia.hemang@gmail.com
 - ⚡ LeetCode : [LeetCode](https://leetcode.com/u/Hemang_Kalavadia/)
-- ⚡ HakerRank : [HakerRank](https://www.hackerrank.com/profile/23dce054)
+- ⚡ HackerRank : [HackerRank](https://www.hackerrank.com/profile/23dce054)
 - 🤝 I’m looking to collaborate on Open Source Projects 
 
 <h2 align="left">Connect with me </h2>
